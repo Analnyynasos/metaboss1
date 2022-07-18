@@ -3,7 +3,7 @@
   "symbol": "GD",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 2000,
-  "image": "https://bafybeidoaeoldxea6yqumy2p2gyweixm4jpbdwtvrlz5x6w4jiyxpwv3da.ipfs.dweb.link/0.gif?ext=gif",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://testlaunchmynft.mypinata.cloud/ipfs/Qme5Y77N9XdmTy6kY5YQAQ4vz29bVA2WdcoR26bkpGk9kJ/156.png",
   "attributes": [
     {
       "trait_type": "Background",
